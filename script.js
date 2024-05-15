@@ -31,6 +31,7 @@ popupBtn.addEventListener("click", ()=>{
     let popup = document.createElement('div')
     popup.classList.add("popup");
     popup.innerHTML = `<div id="hide" class="image"></div>
+    <div class="cross">X</div>
     <div class="img-content">
      <h1>NIKE<br>AIR JORDON LOW 1</h1>
      <div class="line"></div>

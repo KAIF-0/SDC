@@ -371,3 +371,8 @@ body{
     height: 92%;
     background-position-y: -90px;
 }
+
+.cross{
+   position: relative;
+   right: 0px;
+}
